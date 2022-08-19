@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "539607994457",
+    "project_id": "dormir-6d045",
+    "storage_bucket": "dormir-6d045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539607994457:android:91d26220e6535773a4a148",
+        "android_client_info": {
+          "package_name": "com.appsnipp.modernlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539607994457-3pq4lhsumjnhg32ihaqfrunb5r7jk836.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPK5081cjJPk2LQISGcxnv3CIyPuWgeCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539607994457-3pq4lhsumjnhg32ihaqfrunb5r7jk836.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539607994457:android:06dbc8539ce0f252a4a148",
+        "android_client_info": {
+          "package_name": "com.example.dormir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539607994457-3pq4lhsumjnhg32ihaqfrunb5r7jk836.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPK5081cjJPk2LQISGcxnv3CIyPuWgeCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539607994457-3pq4lhsumjnhg32ihaqfrunb5r7jk836.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

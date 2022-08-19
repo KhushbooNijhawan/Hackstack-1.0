@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amiko_bold</item>
+        <item>@font/arvo</item>
+        <item>@font/changa_one</item>
+        <item>@font/coiny</item>
+        <item>@font/fredoka_one</item>
+    </array>
+</resources>
