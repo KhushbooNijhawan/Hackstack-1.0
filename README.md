@@ -40,7 +40,15 @@ To solve this DorMir is all in one solution in form of a pocket-sized device tha
 ![WhatsApp Image 2022-08-20 at 3 49 53 AM](https://user-images.githubusercontent.com/79616524/185716024-93dd5708-ac77-4949-8279-47a5be34a55d.jpg)
 ![WhatsApp Image 2022-08-20 at 3 51 01 AM](https://user-images.githubusercontent.com/79616524/185716038-954a9df0-d43c-435c-a8f4-e756071be78c.jpg)
 
-	
+## App:
+![3](https://user-images.githubusercontent.com/79616524/185721698-c8747812-6e6b-47df-a9d8-f4972f3568b1.jpg)
+![1](https://user-images.githubusercontent.com/79616524/185721680-707af07f-3f1d-442b-bed5-b69aa6229ed1.jpg)
+![2](https://user-images.githubusercontent.com/79616524/185721684-36c5db23-3df6-49fb-bc8e-a7cb5f1d92e7.jpg)
+![4](https://user-images.githubusercontent.com/79616524/185721701-2bbc3232-14eb-4890-b84e-3dbf47277a61.jpg)
+![5](https://user-images.githubusercontent.com/79616524/185721711-79472b51-f9f6-4439-859e-869d383bf94f.jpg)
+![6](https://user-images.githubusercontent.com/79616524/185721715-bc02c0c2-747c-45c4-bf24-7199740dcd38.jpg)
+
+
 ## How it works📃:
 - Step 1: Download the apk of the app
 - step 2: Signup/Login to get app
